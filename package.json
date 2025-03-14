@@ -1,0 +1,25 @@
+{
+  "name": "test-signup",
+  "version": "1.0.0",
+  "description": "Trying to do simple test to see how front end will consume my API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GbemigadEngineer/test-signup.git"
+  },
+  "author": "Oluwagbemiga Oduwole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GbemigadEngineer/test-signup/issues"
+  },
+  "homepage": "https://github.com/GbemigadEngineer/test-signup#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0"
+  }
+}
